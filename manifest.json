@@ -1,7 +1,7 @@
 {
     "name": "swp-deps",
-    "version": "1.0.0",
-    "main": "swp.deps.js"
+    "version": "1.0.1",
+    "main": "swp.deps.js",
     "dependencies": {
         "swptest": "1.0.0"
     }
